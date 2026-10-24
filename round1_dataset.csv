@@ -1,0 +1,287 @@
+word,category
+Lion,Animals
+Tiger,Animals
+Elephant,Animals
+Giraffe,Animals
+Zebra,Animals
+Cheetah,Animals
+Gorilla,Animals
+Dolphin,Animals
+Penguin,Animals
+Kangaroo,Animals
+Crocodile,Animals
+Rhinoceros,Animals
+Hippopotamus,Animals
+Chimpanzee,Animals
+Leopard,Animals
+Jaguar,Animals
+Panda,Animals
+Koala,Animals
+Flamingo,Animals
+Ostrich,Animals
+Peacock,Animals
+Wolf,Animals
+Fox,Animals
+Bear,Animals
+Deer,Animals
+Rabbit,Animals
+Squirrel,Animals
+Parrot,Animals
+Eagle,Animals
+Shark,Animals
+Whale,Animals
+Octopus,Animals
+Jellyfish,Animals
+Seahorse,Animals
+Turtle,Animals
+Camel,Animals
+Bison,Animals
+Meerkat,Animals
+Platypus,Animals
+Mongoose,Animals
+Hyena,Animals
+Baboon,Animals
+Orangutan,Animals
+Sloth,Animals
+Armadillo,Animals
+Porcupine,Animals
+Walrus,Animals
+Seal,Animals
+Otter,Animals
+Raccoon,Animals
+Hedgehog,Animals
+Chameleon,Animals
+Komodo Dragon,Animals
+Manta Ray,Animals
+Stingray,Animals
+Piranha,Animals
+Anaconda,Animals
+Iguana,Animals
+Vulture,Animals
+Albatross,Animals
+Apple,Fruits and Vegetables
+Mango,Fruits and Vegetables
+Banana,Fruits and Vegetables
+Orange,Fruits and Vegetables
+Strawberry,Fruits and Vegetables
+Watermelon,Fruits and Vegetables
+Pineapple,Fruits and Vegetables
+Grapes,Fruits and Vegetables
+Papaya,Fruits and Vegetables
+Guava,Fruits and Vegetables
+Pomegranate,Fruits and Vegetables
+Kiwi,Fruits and Vegetables
+Peach,Fruits and Vegetables
+Cherry,Fruits and Vegetables
+Lychee,Fruits and Vegetables
+Blueberry,Fruits and Vegetables
+Raspberry,Fruits and Vegetables
+Avocado,Fruits and Vegetables
+Coconut,Fruits and Vegetables
+Pear,Fruits and Vegetables
+Tomato,Fruits and Vegetables
+Potato,Fruits and Vegetables
+Carrot,Fruits and Vegetables
+Spinach,Fruits and Vegetables
+Broccoli,Fruits and Vegetables
+Cauliflower,Fruits and Vegetables
+Cabbage,Fruits and Vegetables
+Onion,Fruits and Vegetables
+Garlic,Fruits and Vegetables
+Ginger,Fruits and Vegetables
+Peas,Fruits and Vegetables
+Corn,Fruits and Vegetables
+Cucumber,Fruits and Vegetables
+Beetroot,Fruits and Vegetables
+Radish,Fruits and Vegetables
+Capsicum,Fruits and Vegetables
+Eggplant,Fruits and Vegetables
+Pumpkin,Fruits and Vegetables
+Zucchini,Fruits and Vegetables
+Asparagus,Fruits and Vegetables
+Apricot,Fruits and Vegetables
+Plum,Fruits and Vegetables
+Fig,Fruits and Vegetables
+Dates,Fruits and Vegetables
+Jackfruit,Fruits and Vegetables
+Mulberry,Fruits and Vegetables
+Blackberry,Fruits and Vegetables
+Dragonfruit,Fruits and Vegetables
+Starfruit,Fruits and Vegetables
+Tamarind,Fruits and Vegetables
+Bitter Gourd,Fruits and Vegetables
+Bottle Gourd,Fruits and Vegetables
+Ridge Gourd,Fruits and Vegetables
+Snake Gourd,Fruits and Vegetables
+Drumstick,Fruits and Vegetables
+Taro,Fruits and Vegetables
+Yam,Fruits and Vegetables
+Sweet Potato,Fruits and Vegetables
+Turnip,Fruits and Vegetables
+Leek,Fruits and Vegetables
+India,Countries
+China,Countries
+Japan,Countries
+Brazil,Countries
+Australia,Countries
+Canada,Countries
+Germany,Countries
+France,Countries
+Italy,Countries
+Mexico,Countries
+Russia,Countries
+Spain,Countries
+Argentina,Countries
+South Africa,Countries
+Nigeria,Countries
+Egypt,Countries
+Turkey,Countries
+Saudi Arabia,Countries
+Indonesia,Countries
+Pakistan,Countries
+Bangladesh,Countries
+Sri Lanka,Countries
+Nepal,Countries
+Thailand,Countries
+Vietnam,Countries
+Malaysia,Countries
+Singapore,Countries
+Philippines,Countries
+Kenya,Countries
+Ethiopia,Countries
+Ghana,Countries
+Tanzania,Countries
+Morocco,Countries
+Algeria,Countries
+Portugal,Countries
+Sweden,Countries
+Norway,Countries
+Denmark,Countries
+Finland,Countries
+Switzerland,Countries
+Greece,Countries
+Netherlands,Countries
+Belgium,Countries
+Austria,Countries
+Poland,Countries
+Ukraine,Countries
+Romania,Countries
+Hungary,Countries
+Czech Republic,Countries
+New Zealand,Countries
+Ireland,Countries
+Scotland,Countries
+Colombia,Countries
+Peru,Countries
+Chile,Countries
+Venezuela,Countries
+Cuba,Countries
+Jamaica,Countries
+Panama,Countries
+Ecuador,Countries
+Bolivia,Countries
+Paraguay,Countries
+Doctor,Professions
+Engineer,Professions
+Teacher,Professions
+Nurse,Professions
+Lawyer,Professions
+Architect,Professions
+Pilot,Professions
+Chef,Professions
+Journalist,Professions
+Photographer,Professions
+Scientist,Professions
+Pharmacist,Professions
+Dentist,Professions
+Surgeon,Professions
+Accountant,Professions
+Programmer,Professions
+Designer,Professions
+Firefighter,Professions
+Policeman,Professions
+Soldier,Professions
+Farmer,Professions
+Mechanic,Professions
+Electrician,Professions
+Plumber,Professions
+Carpenter,Professions
+Painter,Professions
+Writer,Professions
+Economist,Professions
+Psychologist,Professions
+Astronaut,Professions
+Biologist,Professions
+Chemist,Professions
+Geologist,Professions
+Mathematician,Professions
+Statistician,Professions
+Historian,Professions
+Philosopher,Professions
+Sociologist,Professions
+Anthropologist,Professions
+Archaeologist,Professions
+Veterinarian,Professions
+Optometrist,Professions
+Radiologist,Professions
+Cardiologist,Professions
+Dermatologist,Professions
+Neurologist,Professions
+Orthopedic,Professions
+Pediatrician,Professions
+Gynecologist,Professions
+Anesthesiologist,Professions
+Car,Vehicles
+Bus,Vehicles
+Truck,Vehicles
+Motorcycle,Vehicles
+Bicycle,Vehicles
+Scooter,Vehicles
+Train,Vehicles
+Airplane,Vehicles
+Helicopter,Vehicles
+Boat,Vehicles
+Ship,Vehicles
+Submarine,Vehicles
+Tractor,Vehicles
+Ambulance,Vehicles
+Taxi,Vehicles
+Autorickshaw,Vehicles
+Van,Vehicles
+Jeep,Vehicles
+Crane,Vehicles
+Bulldozer,Vehicles
+Rocket,Vehicles
+Spaceship,Vehicles
+Hovercraft,Vehicles
+Catamaran,Vehicles
+Monorail,Vehicles
+Tram,Vehicles
+Cable Car,Vehicles
+Gondola,Vehicles
+Speedboat,Vehicles
+Yacht,Vehicles
+Tanker,Vehicles
+Ferry,Vehicles
+Barge,Vehicles
+Tugboat,Vehicles
+Houseboat,Vehicles
+Glider,Vehicles
+Paraglider,Vehicles
+Hot Air Balloon,Vehicles
+Hang Glider,Vehicles
+Jet Ski,Vehicles
+Snowmobile,Vehicles
+ATV,Vehicles
+Forklift,Vehicles
+Excavator,Vehicles
+Cement Mixer,Vehicles
+Fire Truck,Vehicles
+Police Car,Vehicles
+School Bus,Vehicles
+Double Decker Bus,Vehicles
+Limousine,Vehicles
+cat ,Animals
+dog,Animals
+Cat,Animals
+Dog,Animals
